@@ -7,7 +7,8 @@
 <br/>
 
 <p align="center">
-  🎯 Final Year CSE @ VIT Vellore <br/>
+🎯 AET(Springboot) @ CHUBB <br/>
+  🎯 CSE'26 @ VIT Vellore <br/>
   <!-- 🌐 Building <strong><a href="https://wealthwise-iota.vercel.app/" target="_blank">WealthWise</a></strong> – AI-Powered Finance Platform <br/> -->
   🤝 Always open to <strong>collaborations</strong>, freelance gigs, and exciting tech chats <br/>
   📫 Reach me at <strong>tanmaydhelia03@gmail.com</strong>
